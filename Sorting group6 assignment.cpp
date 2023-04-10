@@ -1,19 +1,8 @@
 //                                BAHIRDAR INSTITUE OF TECHNOLOGY
 //                                    FACULTY OF COMPUTING
-//                                       DEP'T OF CS
+//                                    DEP'T OF CS
 
-// Assingment:ANALYSIS OF ALGORITHM(sorting assingment)
-// PREPARED BY GROUP 6
-// GROUP MEMBERS                                           ID
-// 1.ABEL BERHANU..........................................1309026
-// 2.SIMEGN ABAY...........................................1308782
-// 3.YISHAK ABREHAM........................................1308824
-// 4.EYOB AYALEW...........................................1311604
-// 5.ESKEDAR ATINAFU.......................................1311601
-// 6.BIRHANU BAYE..........................................1309117
-// 7.TADELE YILAK..........................................1501515
-//  DATE:Sun feb12/2023
-//  SUBMITTED TO:
+
 
 #include <windows.h>
 #include <iostream>
