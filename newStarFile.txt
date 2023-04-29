@@ -1,0 +1,9 @@
+1234 Leo Red 32333 32131 1
+1324 Sagittarius Yellow 23233 12232 2
+1235 Cancer White 23341 1111 1
+4321 Gemini Gold 3333 2222 2
+4356 Libra  Brown 23443 8988 0
+1985 Capricorn green 3245 9803 1
+2342 Virgo Black 2342 2342 2
+32345 Aquarius Blue 23342 3456 3
+23432 Pisces Indigo 23432 2352 1
